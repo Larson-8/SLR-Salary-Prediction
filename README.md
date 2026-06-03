@@ -299,4 +299,3 @@ Email: manojkumarbalisetty@gmail.com
 
 ---
 
-## ⭐ If you found this project useful, please give it a star on GitHub!
